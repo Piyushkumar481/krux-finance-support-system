@@ -1,0 +1,6 @@
+server
+dist/index.js
+*.log
+node_modules
+.env
+.env.local
